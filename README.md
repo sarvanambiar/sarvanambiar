@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sarvamangala Nambiar
 - 👀 I’m interested in quantitative finance, structured finance, and econometrics.
-- 🌱 I’m currently learning advanced quantitative finance techniques as a candidate for an MS in Quantitative Finance at Northeastern University.
+- 🌱 I’m currently learning advanced quantitative finance techniques as a candidate for MS in Quantitative Finance at Northeastern University.
 - 💞️ I’m looking to collaborate on projects involving quantitative modeling, data analysis, and financial risk assessment, especially those leveraging R and Python.
 - 📫 How to reach me: nambiar.sar@northeastern.edu | [LinkedIn](https://www.linkedin.com/in/sarvamangala-nambiar-957372158/)
 - 😄 Pronouns: She/Her
